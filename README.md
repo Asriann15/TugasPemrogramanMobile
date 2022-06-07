@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/ULM PNG new.png" alt="Logo" width="80" height="80">
+    <img src="Ulm.png" alt="Logo" width="80" height="80">
   </a>
 
 
