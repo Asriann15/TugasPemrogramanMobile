@@ -45,7 +45,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- CONTACT -->
 ## Kelompok
 
 Your Name - <p>[Ahmad Zaini NIM: 2010817310001](https://twitter.com/your_username)<br>
