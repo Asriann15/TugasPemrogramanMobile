@@ -68,8 +68,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Nama Kelompok:[Ahmad Zaini         NIM: 2010817310001 /n](https://github.com/zaaii/) 
-              [Muhammad Asriannoor NIM: 2010817310015](https://github.com/Asriann15/)
+Nama Kelompok:<p>[Ahmad Zaini         NIM: 2010817310001](https://github.com/zaaii/)<br> 
+              [Muhammad Asriannoor NIM: 2010817310015](https://github.com/Asriann15/)</p>
 
 Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile]([https://github.com/your_username/repo_name](https://github.com/zaaii/UAS-Pemrograman-Mobile))
 
