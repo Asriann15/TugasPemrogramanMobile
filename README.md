@@ -13,9 +13,7 @@ Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile](https://github.c
 Aplikasi Android awkoakoakow bingung
 
 
-## Built With
-
-Tools dan Bahasa Yang Digunakan:
+## Tools & Repo
 
  [Android Studio](https://developer.android.com/)
  [Kotlin](https://kotlinlang.org/)
