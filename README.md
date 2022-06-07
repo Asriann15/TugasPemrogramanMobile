@@ -68,7 +68,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Asrian](https://twitter.com/your_username) - email@example.com
+Your Name - [Asrian](https://github.com/Asriann15/)
 
 Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile]([https://github.com/your_username/repo_name](https://github.com/zaaii/UAS-Pemrograman-Mobile))
 
