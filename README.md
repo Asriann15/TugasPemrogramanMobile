@@ -46,7 +46,7 @@ Mata Kuliah: Pemrograman Mobile
 
 * [Android Studio](https://developer.android.com/)
 * [Kotlin](https://kotlinlang.org/)
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
