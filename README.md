@@ -65,7 +65,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
+<!-- Kelompok -->
 ## Nama Kelompok
 
               <p>[Ahmad Zaini         NIM: 2010817310001](https://github.com/zaaii/)<br> 
@@ -73,7 +73,7 @@ Don't forget to give the project a star! Thanks again!
 
 Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile]([https://github.com/your_username/repo_name](https://github.com/zaaii/UAS-Pemrograman-Mobile))
 
-<p align="center">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
