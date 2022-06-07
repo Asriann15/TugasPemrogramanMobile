@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
     <img src="Ulm.png" alt="Logo" width="80" height="80">
@@ -6,10 +5,10 @@
 
 
 ## About The Project
-Aplikasi Android Sederhana
+Aplikasi Android awkoakoakow bingung
 
 
-### Built With
+## Built With
 
 Tools dan Bahasa Yang Digunakan:
 
