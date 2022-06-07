@@ -17,7 +17,3 @@ Aplikasi Android awkoakoakow
 
 [Android Studio](https://developer.android.com/)<br>
  [Kotlin](https://kotlinlang.org/)
-
-
-
-<h4> (https://github.com/zaaii/UAS-Pemrograman-Mobile) </h4>
