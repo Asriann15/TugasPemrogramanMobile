@@ -13,7 +13,7 @@ Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile](https://github.c
 Aplikasi Android awkoakoakow
 
 
-## Tools & Repo
+## Built With
 
 [Android Studio](https://developer.android.com/)<br>
  [Kotlin](https://kotlinlang.org/)
