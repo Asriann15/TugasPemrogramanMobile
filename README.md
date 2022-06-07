@@ -20,4 +20,4 @@ Aplikasi Android awkoakoakow
 
 
 
-<h4> [https://github.com/zaaii/UAS-Pemrograman-Mobile] (https://github.com/zaaii/UAS-Pemrograman-Mobile) </h4>
+<h4> [Repository] (https://github.com/zaaii/UAS-Pemrograman-Mobile) </h4>
