@@ -15,8 +15,8 @@ Aplikasi Android awkoakoakow
 
 ## Tools & Repo
 
- [Android Studio](https://developer.android.com/)
- [Kotlin](https://kotlinlang.org/)
+ <p>[Android Studio](https://developer.android.com/)<br>
+ [Kotlin](https://kotlinlang.org/)</p>
 
 
 
