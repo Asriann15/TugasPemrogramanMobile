@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]()
+[![Contributors][contributors-shield]][contributors-url](https://github.com/zaaii/UAS-Pemrograman-Mobile/graphs/contributors)
 [![Forks][forks-shield]][forks-url]
 
 
