@@ -34,11 +34,11 @@
 ## About The Project
 
 <h1>UAS Pemrograman Mobile</h1>
+  <p align="center">(<a href="#top">back to top</a>)</p>
 
 Mata Kuliah: Pemrograman Mobile
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -66,14 +66,15 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- CONTACT -->
-## Contact
+## Nama Kelompok
+  <p align="center">(<a href="#top">back to top</a>)</p>
 
-Nama Kelompok:<p>[Ahmad Zaini         NIM: 2010817310001](https://github.com/zaaii/)<br> 
+              <p>[Ahmad Zaini         NIM: 2010817310001](https://github.com/zaaii/)<br> 
               [Muhammad Asriannoor NIM: 2010817310015](https://github.com/Asriann15/)</p>
 
 Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile]([https://github.com/your_username/repo_name](https://github.com/zaaii/UAS-Pemrograman-Mobile))
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">(<a href="#top">back to top</a>)</p>
 
 
 
