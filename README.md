@@ -17,9 +17,9 @@ Aplikasi Android awkoakoakow bingung
 
 Tools dan Bahasa Yang Digunakan:
 
-* [Android Studio](https://developer.android.com/)
-* [Kotlin](https://kotlinlang.org/)
+ [Android Studio](https://developer.android.com/)
+ [Kotlin](https://kotlinlang.org/)
 
 
 
-Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile](https://github.com/zaaii/UAS-Pemrograman-Mobile)
+<h2>Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile](https://github.com/zaaii/UAS-Pemrograman-Mobile)<h2>
