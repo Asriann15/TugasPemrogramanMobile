@@ -44,8 +44,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Android Studio](https://developer.android.com/)
 * [Kotlin](https://kotlinlang.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
