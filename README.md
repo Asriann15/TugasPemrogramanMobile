@@ -67,7 +67,6 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 ## Nama Kelompok
-  <p align="center">(<a href="#top">back to top</a>)</p>
 
               <p>[Ahmad Zaini         NIM: 2010817310001](https://github.com/zaaii/)<br> 
               [Muhammad Asriannoor NIM: 2010817310015](https://github.com/Asriann15/)</p>
