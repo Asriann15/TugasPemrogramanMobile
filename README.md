@@ -44,7 +44,7 @@ Mata Kuliah: Pemrograman Mobile
 
 ### Built With
 
-*[Android Studio](https://developer.android.com/)
+* [Android Studio](https://developer.android.com/)
 * [Kotlin](https://kotlinlang.org/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
