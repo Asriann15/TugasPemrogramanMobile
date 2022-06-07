@@ -22,4 +22,4 @@ Tools dan Bahasa Yang Digunakan:
 
 
 
-<h2>Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile](https://github.com/zaaii/UAS-Pemrograman-Mobile)<h2>
+<h3>Project Link: [https://github.com/zaaii/UAS-Pemrograman-Mobile](https://github.com/zaaii/UAS-Pemrograman-Mobile)</h3>
