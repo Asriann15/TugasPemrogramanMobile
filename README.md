@@ -66,7 +66,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- Kelompok -->
-## Nama Kelompok
+## Kelompok
 
               <p>[Ahmad Zaini         NIM: 2010817310001](https://github.com/zaaii/)<br> 
               [Muhammad Asriannoor NIM: 2010817310015](https://github.com/Asriann15/)</p>
